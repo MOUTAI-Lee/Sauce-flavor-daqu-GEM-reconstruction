@@ -2,8 +2,8 @@
 Genome-scale metabolic model reconstruction and metabolic interaction analysis of microorganisms in sauce-flavor Daqu.
 ## Graphical Abstract
 
-[View Graphical Abstract](./Graphic%20abstract.pdf)
+![Graphical Abstract](./Graphical_Abstract.png)
 
-## Figures
+## Figure 6
 
-[View Figure 6](./Fig6.pdf)
+![Figure 6](./Fig.png)
