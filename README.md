@@ -4,7 +4,7 @@ Aligned with Methods 2.6.
 
 ## Canonical workflow
 1. Prepare protein-coding sequences (`proteins/*.faa`) from the non-redundant MAGs using Prodigal single-genome mode (see MAGs pipeline).
-2. `stage_batch_modeling.sh`: CarveMe v1.6.6 reconstruction with M9 gap filling; output SBML models in `04_models_final/`.
+2. `stage_batch_modeling.sh`: CarveMe v1.6.6 reconstruction with M9 gap filling; output SBML models in `models_final/`.
 3. `run_memote_batch.sh`: MEMOTE v0.17.0 quality reports.
 4. `stage_smetana.sh`: SMETANA v1.2.1 global and detailed analyses under the same M9 medium; summarize donor/receiver and metabolite-level exchanges.
 
